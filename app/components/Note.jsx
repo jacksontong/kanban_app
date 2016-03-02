@@ -1,3 +1,3 @@
 import React from 'react';
 
-export default () => <div>Hello Jackson Tong</div>
+export default ({task}) => <div>{task}</div>;
